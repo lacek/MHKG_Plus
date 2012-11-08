@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">  
+
+    <item android:id="@+id/submenu"
+          android:title="@string/changec"
+          android:showAsAction="ifRoom|withText" >
+        <menu>
+            <item android:id="@+id/c1"
+                  android:title="@string/c1" />
+            <item android:id="@+id/c2"
+                  android:title="@string/c2" />
+            <item android:id="@+id/c3"
+                  android:title="@string/c3" />
+            <item android:id="@+id/c4"
+                  android:title="@string/c4" />
+            <item android:id="@+id/c5"
+                  android:title="@string/c5" />
+            <item android:id="@+id/c6"
+                  android:title="@string/c6" />
+            <item android:id="@+id/c7"
+                  android:title="@string/c7" />
+            <item android:id="@+id/c8"
+                  android:title="@string/c8" />
+            <item android:id="@+id/c9"
+                  android:title="@string/c9" />
+            <item android:id="@+id/c10"
+                  android:title="@string/c10" />
+            <item android:id="@+id/c11"
+                  android:title="@string/c11" />
+            <item android:id="@+id/c12"
+                  android:title="@string/c12" />
+            <item android:id="@+id/c13"
+                  android:title="@string/c13" />
+            <item android:id="@+id/c14"
+                  android:title="@string/c14" />
+            <item android:id="@+id/c15"
+                  android:title="@string/c15" />
+            <item android:id="@+id/c16"
+                  android:title="@string/c16" />
+            <item android:id="@+id/c17"
+                  android:title="@string/c17" />
+            <item android:id="@+id/c18"
+                  android:title="@string/c18" />
+            <item android:id="@+id/c19"
+                  android:title="@string/c19" />
+            <item android:id="@+id/c20"
+                  android:title="@string/c20" />
+            <item android:id="@+id/c21"
+                  android:title="@string/c21" />
+            <item android:id="@+id/c22"
+                  android:title="@string/c22" />
+            <item android:id="@+id/c23"
+                  android:title="@string/c23" />
+            <item android:id="@+id/c24"
+                  android:title="@string/c24" />
+            <item android:id="@+id/c25"
+                  android:title="@string/c25" />
+            <item android:id="@+id/c26"
+                  android:title="@string/c26" />            
+        </menu>
+    </item>
+     
+    <item android:id="@+id/submenu2"
+          android:title="@string/settings"
+          android:icon="@drawable/ic_menu_overflow" 
+          android:showAsAction="ifRoom" >
+          <menu>
+             <item android:id="@+id/reload"
+                   android:title="@string/reload" />
+             <item android:id="@+id/copyurl"
+                   android:title="@string/copy_url" />
+    		 <item android:id="@+id/addfav"
+          		   android:title="@string/addfav" /> 
+    		 <item android:id="@+id/fav"
+          		   android:title="@string/fav" /> 
+    		 <item android:id="@+id/his"
+          		   android:title="@string/his" /> 
+    		 <item android:id="@+id/view"
+          		   android:title="@string/view_url" /> 
+        </menu>
+    </item>
+  
+    <item android:id="@+id/settings"
+          android:title="@string/settings" />
+    <item android:id="@+id/exit"
+          android:title="@string/exit" />
+</menu>

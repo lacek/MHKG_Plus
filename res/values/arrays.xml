@@ -1,0 +1,80 @@
+<resources>
+    <string-array name="cache_size">
+    	<item>10MB</item>
+    	<item>25MB</item>
+    	<item>50MB</item>
+	</string-array>
+	<string-array name="cache_size_values">
+  	 	<item>10</item>
+   		<item>25</item>
+    	<item>50</item>
+	</string-array>
+	<string-array name="preset">
+    	<item>吹水台</item> 
+  		<item>娛樂台</item> 
+  		<item>時事台</item> 
+  		<item>財經台</item>
+  		<item>遊戲台</item>
+  		<item>硬件台</item>
+  		<item>寬頻台</item>
+  		<item>軟件台</item>
+  		<item>手機台</item>
+  		<item>體育台</item>
+  		<item>感情台</item>
+  		<item>講故台</item>
+  		<item>飲食台</item> 
+  		<item>旅遊台</item> 
+  		<item>潮流台</item> 
+  		<item>動漫台</item>
+  		<item>玩具台</item>
+  		<item>音樂台</item>
+  		<item>影視台</item>
+  		<item>攝影台</item>
+  		<item>學術台</item>
+  		<item>汽車台</item>
+  		<item>電台</item>
+  		<item>站務台</item>
+  		<item>自組活動台</item>
+  		<item>創意台</item>
+	</string-array>
+	<string-array name="preset_values">
+    	<item>c1</item> 
+  		<item>c2</item> 
+  		<item>c3</item> 
+  		<item>c4</item>
+  		<item>c5</item>
+  		<item>c6</item>
+  		<item>c7</item>
+  		<item>c8</item>
+  		<item>c9</item>
+  		<item>c10</item>
+  		<item>c11</item>
+  		<item>c12</item>
+  		<item>c13</item> 
+  		<item>c14</item> 
+  		<item>c15</item> 
+  		<item>c16</item>
+  		<item>c17</item>
+  		<item>c18</item>
+  		<item>c19</item>
+  		<item>c20</item>
+  		<item>c21</item>
+  		<item>c22</item>
+  		<item>c23</item>
+  		<item>c24</item>
+  		<item>c25</item>
+  		<item>c26</item>
+	</string-array>
+    <string-array name="timeout">
+    	<item>10 秒</item>
+    	<item>15 秒</item>
+    	<item>20 秒</item>
+   		<item>30 秒</item>
+	</string-array>
+	<string-array name="timeout_values">
+  	 	<item>10</item>
+   		<item>15</item>
+    	<item>20</item>
+    	<item>30</item>
+	</string-array>
+</resources>
